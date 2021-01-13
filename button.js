@@ -11,7 +11,7 @@ function replaceWord() {
     fetch("https://covid-19-data.p.rapidapi.com/totals", {
 	method: "GET",
 	headers: {
-		"x-rapidapi-key": "22de8ad112msh9c2ef3023a3bc07p15e976jsn493a38f742b8",
+		"x-rapidapi-key": "API Key",
 		"x-rapidapi-host": "covid-19-data.p.rapidapi.com"
 	}
 })
