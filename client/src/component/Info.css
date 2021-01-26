@@ -1,0 +1,9 @@
+.textBox{
+    border: khaki;
+    background-color: lightcoral;
+    display:flex;
+    position: absolute;
+    text-align: center;
+    left:30%;
+    top:20%;
+}
